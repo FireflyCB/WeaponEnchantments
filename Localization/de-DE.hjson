@@ -1,4 +1,5 @@
 ﻿#Contributed by @Shiro ᵘʷᵘ#6942
+#Contributed by @Fischstäbchen#2603
 Mods: {
 	WeaponEnchantments: {
 		ItemName: {
@@ -15,11 +16,11 @@ Mods: {
 			EnchantmentEssenceRare: Verzauberungsessenz Selten
 			EnchantmentEssenceEpic: Verzauberungsessenz Sehr Selten
 			EnchantmentEssenceLegendary: Verzauberungsessenz Ultra Selten
-			AllForOneEnchantmentBasic: Alle für einen Verzauberung Basic
-			AllForOneEnchantmentCommon: Alle für einen Verzauberung Gewöhnlich
-			AllForOneEnchantmentRare: Alle für einen Verzauberung Selten
-			AllForOneEnchantmentEpic: Alle für einen Verzauberung Super Selten
-			AllForOneEnchantmentLegendary: Alle für einen Verzauberung Ultra Selten
+			AllForOneEnchantmentBasic: Alle für Einen Verzauberung Basic
+			AllForOneEnchantmentCommon: Alle für Einen Verzauberung Gewöhnlich
+			AllForOneEnchantmentRare: Alle für Einen Verzauberung Selten
+			AllForOneEnchantmentEpic: Alle für Einen Verzauberung Super Selten
+			AllForOneEnchantmentLegendary: Alle für Einen Verzauberung Ultra Selten
 			ArmorPenetrationEnchantmentBasic: Rüstungsdurchdringung Verzauberung Basic
 			ArmorPenetrationEnchantmentCommon: Rüstungsdurchdringung Verzauberung Gewöhnlich
 			ArmorPenetrationEnchantmentRare: Rüstungsdurchdringung Verzauberung Selten
@@ -45,41 +46,41 @@ Mods: {
 			MaxMinionsEnchantmentRare: Max Günstlinge Verzauberung Selten
 			MaxMinionsEnchantmentEpic: Max Günstlinge Verzauberung Super Selten
 			MaxMinionsEnchantmentLegendary: Max Günstlinge Verzauberung Ultra Selten
-			OneForAllEnchantmentBasic: Einer für alle Verzauberung Basic
-			OneForAllEnchantmentCommon: Einer für alle Verzauberung Gewöhnlich
-			OneForAllEnchantmentRare: Einer für alle Verzauberung Selten
-			OneForAllEnchantmentEpic: Einer für alle Verzauberung Super Selten
-			OneForAllEnchantmentLegendary: Einer für alle Verzauberung Ultra Selten
-			AttackSpeedEnchantmentBasic: Geschwindigkeit Verzauberung Basic
-			AttackSpeedEnchantmentCommon: Geschwindigkeit Verzauberung Gewöhnlich
-			AttackSpeedEnchantmentRare: Geschwindigkeit Verzauberung Selten
-			AttackSpeedEnchantmentEpic: Geschwindigkeit Verzauberung Super Selten
-			AttackSpeedEnchantmentLegendary: Geschwindigkeit Verzauberung Ultra Selten
-			StatDefenseEnchantmentBasic: Verteidigung Verzauberung Basic
-			StatDefenseEnchantmentCommon: Verteidigung Verzauberung Gewöhnlich
-			StatDefenseEnchantmentRare: Verteidigung Verzauberung Selten
-			StatDefenseEnchantmentEpic: Verteidigung Verzauberung Super Selten
-			StatDefenseEnchantmentLegendary: Verteidigung Verzauberung Ultra Selten
-			ColdSteelEnchantmentBasic: Kalter Stahl Verzauberung Basic
-			ColdSteelEnchantmentCommon: Kalter Stahl Verzauberung Gewöhnlich
-			ColdSteelEnchantmentRare: Kalter Stahl Verzauberung Gewöhnlich
-			ColdSteelEnchantmentEpic: Kalter Stahl Verzauberung Super Selten
-			ColdSteelEnchantmentLegendary: Kalter Stahl Verzauberung Ultra Selten
-			GodSlayerEnchantmentBasic: Gotttöter Verzauberung Basic
-			GodSlayerEnchantmentCommon: Gotttöter Verzauberung Gewöhnlich
-			GodSlayerEnchantmentRare: Gotttöter Verzauberung Selten
-			GodSlayerEnchantmentEpic: Gotttöter Verzauberung Super Selten
-			GodSlayerEnchantmentLegendary: Gotttöter Verzauberung Ultra Selten
-			HellsWrathEnchantmentBasic: Höllen Zorn Verzauberung Basic
-			HellsWrathEnchantmentCommon: Höllen Zorn Verzauberung Gewöhnlich
-			HellsWrathEnchantmentRare: Höllen Zorn Verzauberung Selten
-			HellsWrathEnchantmentEpic: Höllen Zorn Verzauberung Super Selten
-			HellsWrathEnchantmentLegendary: Höllen Zorn Verzauberung Ultra Selten
-			JunglesFuryEnchantmentBasic: Jungle Zorn Verzauberung Basic
-			JunglesFuryEnchantmentCommon: Jungle Zorn Verzauberung Gewöhnlich
-			JunglesFuryEnchantmentRare: Jungle Zorn Verzauberung Selten
-			JunglesFuryEnchantmentEpic: Jungle Zorn Verzauberung Super Selten
-			JunglesFuryEnchantmentLegendary: Jungle Zorn Verzauberung Ultra Selten
+			OneForAllEnchantmentBasic: Einer für Alle Verzauberung Basic
+			OneForAllEnchantmentCommon: Einer für Alle Verzauberung Gewöhnlich
+			OneForAllEnchantmentRare: Einer für Alle Verzauberung Selten
+			OneForAllEnchantmentEpic: Einer für Alle Verzauberung Super Selten
+			OneForAllEnchantmentLegendary: Einer für Alle Verzauberung Ultra Selten
+			AttackSpeedEnchantmentBasic: Angriffseschwindigkeit Verzauberung Basic
+			AttackSpeedEnchantmentCommon: Angriffseschwindigkeit Verzauberung Gewöhnlich
+			AttackSpeedEnchantmentRare: Angriffseschwindigkeit Verzauberung Selten
+			AttackSpeedEnchantmentEpic: Angriffseschwindigkeit Verzauberung Super Selten
+			AttackSpeedEnchantmentLegendary: Angriffseschwindigkeit Verzauberung Ultra Selten
+			StatDefenseEnchantmentBasic: Abwehr Verzauberung Basic
+			StatDefenseEnchantmentCommon: Abwehr Verzauberung Gewöhnlich
+			StatDefenseEnchantmentRare: Abwehr Verzauberung Selten
+			StatDefenseEnchantmentEpic: Abwehr Verzauberung Super Selten
+			StatDefenseEnchantmentLegendary: Abwehr Verzauberung Ultra Selten
+			ColdSteelEnchantmentBasic: Kaltes Stahl Verzauberung Basic
+			ColdSteelEnchantmentCommon: Kaltes Stahl Verzauberung Gewöhnlich
+			ColdSteelEnchantmentRare: Kaltes Stahl Verzauberung Gewöhnlich
+			ColdSteelEnchantmentEpic: Kaltes Stahl Verzauberung Super Selten
+			ColdSteelEnchantmentLegendary: Kaltes Stahl Verzauberung Ultra Selten
+			GodSlayerEnchantmentBasic: Gottestöter Verzauberung Basic
+			GodSlayerEnchantmentCommon: Gottestöter Verzauberung Gewöhnlich
+			GodSlayerEnchantmentRare: Gottestöter Verzauberung Selten
+			GodSlayerEnchantmentEpic: Gottestöter Verzauberung Super Selten
+			GodSlayerEnchantmentLegendary: Gottestöter Verzauberung Ultra Selten
+			HellsWrathEnchantmentBasic: Höllenzorn Verzauberung Basic
+			HellsWrathEnchantmentCommon: Höllenzorn Verzauberung Gewöhnlich
+			HellsWrathEnchantmentRare: Höllenzorn Verzauberung Selten
+			HellsWrathEnchantmentEpic: Höllenzorn Verzauberung Super Selten
+			HellsWrathEnchantmentLegendary: Höllenzorn Verzauberung Ultra Selten
+			JunglesFuryEnchantmentBasic: Dschungelzorn Verzauberung Basic
+			JunglesFuryEnchantmentCommon: Dschungelzorn Verzauberung Gewöhnlich
+			JunglesFuryEnchantmentRare: Dschungelzorn Verzauberung Selten
+			JunglesFuryEnchantmentEpic: Dschungelzorn Verzauberung Super Selten
+			JunglesFuryEnchantmentLegendary: Dschungelzorn Verzauberung Ultra Selten
 			MoonlightEnchantmentBasic: Mondlicht Verzauberung Basic
 			MoonlightEnchantmentCommon: Mondlicht Verzauberung Gewöhnlich
 			MoonlightEnchantmentRare: Mondlicht Verzauberung Selten
@@ -107,22 +108,22 @@ Mods: {
 			MovementSpeedEnchantmentRare: Bewegungsgeschwindigkeit Verzauberung Selten
 			MovementSpeedEnchantmentEpic: Bewegungsgeschwindigkeit Verzauberung Super Selten
 			MovementSpeedEnchantmentLegendary: Bewegungsgeschwindigkeit Verzauberung Ultra Selten
-			ObsidianSkinEnchantmentLegendary: Obsidian Haut Verzauberung Ultra Selten
+			ObsidianSkinEnchantmentLegendary: Obsidianhaut Verzauberung Ultra Selten
 			PeaceEnchantmentBasic: Frieden Verzauberung Basic
 			PeaceEnchantmentCommon: Frieden Verzauberung Gewöhnlich
 			PeaceEnchantmentRare: Frieden Verzauberung Selten
 			PeaceEnchantmentEpic: Frieden Verzauberung Super Rare
 			PeaceEnchantmentLegendary: Frieden Verzauberung Ultra Rare
-			SizeEnchantmentBasic: Skalierung Verzauberung Basic
-			SizeEnchantmentCommon: Skalierung Verzauberung Gewöhnlich
-			SizeEnchantmentRare: Skalierung Verzauberung Selten
-			SizeEnchantmentEpic: Skalierung Verzauberung Super Selten
-			SizeEnchantmentLegendary: Skalierung Verzauberung Ultra Selten
-			ProjectileVelocityEnchantmentBasic: Schussgeschwindigkeit ​​Verzauberung Basic
-			ProjectileVelocityEnchantmentCommon: Schussgeschwindigkeit ​​Verzauberung Gewöhnlich
-			ProjectileVelocityEnchantmentRare: Schussgeschwindigkeit ​​Verzauberung Selten
-			ProjectileVelocityEnchantmentEpic: Schussgeschwindigkeit ​​Verzauberung Sehr Selten
-			ProjectileVelocityEnchantmentLegendary: Schussgeschwindigkeit ​​Verzauberung Ultra Selten
+			SizeEnchantmentBasic: Größe Verzauberung Basic
+			SizeEnchantmentCommon: Größe Verzauberung Gewöhnlich
+			SizeEnchantmentRare: Größe Verzauberung Selten
+			SizeEnchantmentEpic: Größe Verzauberung Super Selten
+			SizeEnchantmentLegendary: Größe Verzauberung Ultra Selten
+			ProjectileVelocityEnchantmentBasic: Projektilgeschwindigkeit ​​Verzauberung Basic
+			ProjectileVelocityEnchantmentCommon: Projektilgeschwindigkeit ​​Verzauberung Gewöhnlich
+			ProjectileVelocityEnchantmentRare: Projektilgeschwindigkeit ​​Verzauberung Selten
+			ProjectileVelocityEnchantmentEpic: Projektilgeschwindigkeit ​​Verzauberung Sehr Selten
+			ProjectileVelocityEnchantmentLegendary: Projektilgeschwindigkeit ​​Verzauberung Ultra Selten
 			SpelunkerEnchantmentLegendary: Höhlenforscher-Verzauberung Ultra Selten
 			WarEnchantmentBasic: Krieg Verzauberung Basic
 			WarEnchantmentCommon: Krieg Verzauberung Gewöhnlich
