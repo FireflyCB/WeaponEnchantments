@@ -2,93 +2,93 @@
 Mods: {
 	WeaponEnchantments: {
 		ItemName: {
-			AllForOneEnchantmentBasic: Alle für einen Verzauberung Basic
-			AllForOneEnchantmentCommon: Alle für einen Verzauberung Gewöhnlich
-			AllForOneEnchantmentEpic: All For One Enchantment-Epos
-			AllForOneEnchantmentLegendary: All For One Verzauberung Legendär
-			AllForOneEnchantmentRare: Alle für einen Verzauberung Selten
+			AllForOneEnchantmentBasic: Alle für Einen Verzauberung Basic
+			AllForOneEnchantmentCommon: Alle für Einen Verzauberung Gewöhnlich
+			AllForOneEnchantmentEpic: Alle für Einen Verzauberung Episch
+			AllForOneEnchantmentLegendary: Alle für Einen Verzauberung Legendär
+			AllForOneEnchantmentRare: Alle für Einen Verzauberung Selten
 			AmmoCostEnchantmentBasic: Munitionskosten Verzauberung Basic
 			AmmoCostEnchantmentCommon: Munitionskosten Verzauberung Gewöhnlich
-			AmmoCostEnchantmentEpic: Munitionskosten-Verzauberung Epic
+			AmmoCostEnchantmentEpic: Munitionskosten-Verzauberung Episch
 			AmmoCostEnchantmentLegendary: Munitionskostenverzauberung Legendär
 			AmmoCostEnchantmentRare: Munitionskosten Verzauberung Selten
 			ArmorPenetrationEnchantmentBasic: Rüstungsdurchdringung Verzauberung Basic
 			ArmorPenetrationEnchantmentCommon: Rüstungsdurchdringung Verzauberung Gewöhnlich
-			ArmorPenetrationEnchantmentEpic: Rüstungsdurchdringungsverzauberung Epic
-			ArmorPenetrationEnchantmentLegendary: Rüstungsdurchdringungsverzauberung Legendär
+			ArmorPenetrationEnchantmentEpic: Rüstungsdurchdringungsverzauberung Episch
+			ArmorPenetrationEnchantmentLegendary: Rüstungsdurchdringung Verzauberung Legendär
 			ArmorPenetrationEnchantmentRare: Rüstungsdurchdringung Verzauberung Selten
-			AttackSpeedEnchantmentBasic: Geschwindigkeit Verzauberung Basic
-			AttackSpeedEnchantmentCommon: Geschwindigkeit Verzauberung Gewöhnlich
-			AttackSpeedEnchantmentEpic: Angriffsgeschwindigkeitsverzauberung Epic
+			AttackSpeedEnchantmentBasic: Angriffsgeschwindigkeit Verzauberung Basic
+			AttackSpeedEnchantmentCommon: Angriffsgeschwindigkeit Verzauberung Gewöhnlich
+			AttackSpeedEnchantmentEpic: Angriffsgeschwindigkeitsverzauberung Episch
 			AttackSpeedEnchantmentLegendary: Angriffsgeschwindigkeitsverzauberung Legendär
-			AttackSpeedEnchantmentRare: Geschwindigkeit Verzauberung Selten
-			CalmWatersEnchantmentBasic: Ruhiges Wasser Verzauberung Basic
-			CalmWatersEnchantmentCommon: Ruhiges Wasser Verzauberung Common
-			CalmWatersEnchantmentEpic: Calm Waters Enchantment Epos
-			CalmWatersEnchantmentLegendary: Calm Waters Verzauberung Legendär
+			AttackSpeedEnchantmentRare: Angriffsgeschwindigkeit Verzauberung Selten
+			CalmWatersEnchantmentBasic: Ruhige Gewässer Verzauberung Basic
+			CalmWatersEnchantmentCommon: Ruhige Gewässer Verzauberung Gewöhnlich
+			CalmWatersEnchantmentEpic: Ruhige Gewässer Enchantment Episch
+			CalmWatersEnchantmentLegendary: Ruhige Gewässer Verzauberung Legendär
 			CalmWatersEnchantmentRare: Verzauberung der ruhigen Gewässer Selten
-			ChaoticFishingEnchantmentBasic: Chaotische Angelverzauberung Basic
-			ChaoticFishingEnchantmentCommon: Chaotische Angelverzauberung Häufig
-			ChaoticFishingEnchantmentEpic: Chaotic Fishing Enchantment Epos
-			ChaoticFishingEnchantmentLegendary: Chaotische Angelverzauberung Legendär
-			ChaoticFishingEnchantmentRare: Chaotische Angelverzauberung Selten
-			ColdSteelEnchantmentBasic: Kalter Stahl Verzauberung Basic
-			ColdSteelEnchantmentCommon: Kalter Stahl Verzauberung Gewöhnlich
-			ColdSteelEnchantmentEpic: Cold Steel Enchantment-Epos
-			ColdSteelEnchantmentLegendary: Legendäre Verzauberung von Cold Steel
-			ColdSteelEnchantmentRare: Kalter Stahl Verzauberung Gewöhnlich
+			ChaoticFishingEnchantmentBasic: Chaotische Angel Verzauberung Basic
+			ChaoticFishingEnchantmentCommon: Chaotische Angel Verzauberung Gewöhnlich
+			ChaoticFishingEnchantmentEpic: Chaotische Angel Verzauberung Episch
+			ChaoticFishingEnchantmentLegendary: Chaotische Angel Verzauberung Legendär
+			ChaoticFishingEnchantmentRare: Chaotische Angel Verzauberung Selten
+			ColdSteelEnchantmentBasic: Kaltes Stahl Verzauberung Basic
+			ColdSteelEnchantmentCommon: Kaltes Stahl Verzauberung Gewöhnlich
+			ColdSteelEnchantmentEpic: Kaltes Stahl Verzauberung Episch
+			ColdSteelEnchantmentLegendary: Kaltes Stahl Verzauberung Legendär
+			ColdSteelEnchantmentRare: Kaltes Stahl Verzauberung Selten
 			CrateChanceEnchantmentBasic: Crate Chance Verzauberung Basic
-			CrateChanceEnchantmentCommon: Crate Chance Verzauberung Common
-			CrateChanceEnchantmentEpic: Crate Chance Enchantment Epos
+			CrateChanceEnchantmentCommon: Crate Chance Verzauberung Gewöhnlich
+			CrateChanceEnchantmentEpic: Crate Chance Enchantment Episch
 			CrateChanceEnchantmentLegendary: Kistenchance-Verzauberung Legendär
 			CrateChanceEnchantmentRare: Kisten-Chance-Verzauberung Selten
 			CrateEnchantmentBasic: Kistenverzauberung Basic
 			CrateEnchantmentCommon: Kistenverzauberung Gewöhnlich
-			CrateEnchantmentEpic: Kistenverzauberung Epos
+			CrateEnchantmentEpic: Kistenverzauberung Episch
 			CrateEnchantmentLegendary: Kistenverzauberung Legendär
 			CrateEnchantmentRare: Kistenverzauberung Selten
 			CriticalStrikeChanceEnchantmentBasic: Kritische Trefferchance Verzauberung Basic
 			CriticalStrikeChanceEnchantmentCommon: Kritische Trefferchance Verzauberung Gewöhnlich
-			CriticalStrikeChanceEnchantmentEpic: Verzauberungs-Epos mit kritischer Trefferchance
+			CriticalStrikeChanceEnchantmentEpic: Verzauberungs-Epos mit kritischer Trefferchance Episch
 			CriticalStrikeChanceEnchantmentLegendary: Verzauberung mit kritischer Trefferchance Legendär
 			CriticalStrikeChanceEnchantmentRare: Kritische Trefferchance Verzauberung Selten
 			CriticalStrikeDamageEnchantmentBasic: Kritische Trefferschaden-Verzauberung Basic
-			CriticalStrikeDamageEnchantmentCommon: Verzauberung für Schaden durch kritische Treffer Häufig
-			CriticalStrikeDamageEnchantmentEpic: Verzauberung mit kritischem Trefferschaden episch
+			CriticalStrikeDamageEnchantmentCommon: Verzauberung für Schaden durch kritische Treffer Gewöhnlich
+			CriticalStrikeDamageEnchantmentEpic: Verzauberung mit kritischem Trefferschaden Episch
 			CriticalStrikeDamageEnchantmentLegendary: Verzauberung für kritischen Trefferschaden Legendär
 			CriticalStrikeDamageEnchantmentRare: Verzauberung mit kritischem Trefferschaden Selten
 			CursedInfernoEnchantmentBasic: Verfluchte Inferno-Verzauberung Basic
-			CursedInfernoEnchantmentCommon: Verfluchte Inferno-Verzauberung
-			CursedInfernoEnchantmentEpic: Verfluchtes Inferno-Verzauberungs-Epos
+			CursedInfernoEnchantmentCommon: Verfluchte Inferno-Verzauberung Gewöhnlich
+			CursedInfernoEnchantmentEpic: Verfluchtes Inferno-Verzauberungs-Episch
 			CursedInfernoEnchantmentLegendary: Verfluchte Inferno-Verzauberung Legendär
 			CursedInfernoEnchantmentRare: Verfluchte Inferno-Verzauberung Selten
 			DamageEnchantmentBasic: Schaden Verzauberung Basic
 			DamageEnchantmentCommon: Schaden Verzauberung Gewöhnlich
-			DamageEnchantmentEpic: Schadensverzauberung Epic
+			DamageEnchantmentEpic: Schadensverzauberung Episch
 			DamageEnchantmentLegendary: Beschädigen Sie die Verzauberung Legendär
 			DamageEnchantmentRare: Schaden Verzauberung Selten
-			DamageReductionEnchantmentBasic: Grundlegende Verzauberung zur Schadensreduzierung
+			DamageReductionEnchantmentBasic: Grundlegende Verzauberung zur Schadensreduzierung Basic
 			DamageReductionEnchantmentCommon: Verzauberung zur Schadensminderung Gewöhnlich
-			DamageReductionEnchantmentEpic: Epic-Verzauberung zur Schadensreduzierung
+			DamageReductionEnchantmentEpic: Epic-Verzauberung zur Schadensreduzierung Episch
 			DamageReductionEnchantmentLegendary: Verzauberung zur Schadensreduzierung Legendär
 			DamageReductionEnchantmentRare: Verzauberung zur Schadensreduzierung Selten
 			DangerSenseEnchantmentBasic: Verzauberung der Gefahrenwahrnehmung Basic
 			DangerSenseEnchantmentCommon: Verzauberung der Gefahrenwahrnehmung Gewöhnlich
-			DangerSenseEnchantmentEpic: Danger Sense Enchantment Epos
+			DangerSenseEnchantmentEpic: Danger Sense Enchantment Episch
 			DangerSenseEnchantmentLegendary: Verzauberung der Gefahrenwahrnehmung Legendär
 			DangerSenseEnchantmentRare: Verzauberung der Gefahrenwahrnehmung Selten
 			DaybreakEnchantmentBasic: Tagesanbruch-Verzauberung Basic
-			DaybreakEnchantmentCommon: Daybreak-Verzauberung Common
-			DaybreakEnchantmentEpic: Daybreak Enchantment-Epos
+			DaybreakEnchantmentCommon: Daybreak-Verzauberung Gewöhnlich
+			DaybreakEnchantmentEpic: Daybreak Enchantment-Episch
 			DaybreakEnchantmentLegendary: Daybreak-Verzauberung Legendär
 			DaybreakEnchantmentRare: Daybreak-Verzauberung Selten
 			DefenseEnchantmentBasic: Verteidigungsverzauberung Basic
 			DefenseEnchantmentCommon: Verzauberung der Verteidigung Gewöhnlich
-			DefenseEnchantmentEpic: Verteidigungszauber-Epos
+			DefenseEnchantmentEpic: Verteidigungszauber-Episch
 			DefenseEnchantmentLegendary: Verteidigungsverzauberung Legendär
 			DefenseEnchantmentRare: Verteidigungszauber Selten
 			ExtraFishingLineEnchantmentBasic: Zusätzliche Angelschnur-Verzauberung Basic
-			ExtraFishingLineEnchantmentCommon: Zusätzliche Angelschnur-Verzauberung
+			ExtraFishingLineEnchantmentCommon: Zusätzliche Angelschnur-Verzauberung Gewöhnlich
 			ExtraFishingLineEnchantmentEpic: Extra Angelschnur-Verzauberung Epic
 			ExtraFishingLineEnchantmentLegendary: Zusätzliche Angelschnur-Verzauberung Legendär
 			ExtraFishingLineEnchantmentRare: Zusätzliche Angelschnur-Verzauberung Selten
@@ -296,14 +296,14 @@ Mods: {
 			Amaterasu: Amaterasu
 		}
 		Bestiary: {
-			Witch: Die Hexe ist eine hässliche und böse Dame und handelt mit weiteren bösen Dingen. Sie handelt mit dubiosen Materialien, die verwendet werden, um Ausrüstung mit mysteriösen Effekten zu verbessern.
+			Witch: Die Hexe ist eine hässliche und böse Dame und hantiert mit gefärhlichen Sachen herum. Sie verkäuft, die verwendet werden, um Ausrüstung mit mysteriösen Effekten zu verbessern.
 		}
 		Dialogue: {
 			Witch: {
-				BirthdayParty: WARUM BIN ICH GEZWUNGEN, ROSA ZU KLEIDEN?! DAS SIEHT SCHRECKLICH AUS, DIESE PARTY STINK!
+				BirthdayParty: WARUM WERDE ICH DAZU GEZWUNGEN, ROSA SACHEN ZU TRAGEN?! DAS SIEHT SCHRECKLICH AUS, DIESE PARTY IST SCHROTT!
 				BloodMoon: Es tut mir wirklich leid für mein vorheriges Verhalten. Ich war damals nicht in Bestform, und wenn ich unhöflich rüberkam, entschuldige ich mich.
-				Corrupt: Oooh! Der Schmutz hier ist herrlich! Ich kann es kaum erwarten, neue Entdeckungen anzunehmen!
-				Crimson: Oooh! Das Blut hier ist schön! Ich kann es kaum erwarten, neue Entdeckungen anzunehmen!
+				Corrupt: Oooh! Der Schmutz hier ist herrlich! Ich kann es kaum erwarten, neue Sachen zu entdecken!
+				Crimson: Oooh! Das Blut hier ist schön! Ich kann es kaum erwarten, neue Sachen zu entdecken!
 				Dryad: "Diese... {0} Person ist so klischeehaft! 'Rette die Welt vor dem Bösen' Das Böse ist tief verwurzelt und hier, um zu bleiben!"
 				DyeTrader: "{0} verbindet mich immer mit den dunkelsten Schwarztönen und den gruseligsten Grüntönen! Diese Farben verleihen mir einen ganz besonderen Glanz und lassen mich so schlank aussehen!"
 				Graveyard: Manche Leute mögen die Toten gruselig finden, aber diese „Totenstille“ ist eigentlich ziemlich peppig! Nack nack nack!
@@ -328,7 +328,7 @@ Mods: {
 				'''
 			EnchantmentEssenceCommon: 
 				'''
-				Übliches Material zum Herstellen und Verbessern von Verzauberungen.
+				Gewöhnliches Material zum Herstellen und Verbessern von Verzauberungen.
 				Kann zu 1600 Erfahrung in einen bezaubernden Tisch umgewandelt werden.
 				'''
 			EnchantmentEssenceEpic: 
@@ -371,7 +371,8 @@ Mods: {
 				Hazel: Hasel
 				Jasminka: Jasminka
 				Kyubey: Kyubey
-				Maleficient: Bösartig
+				Maleficient: Maleficient
+				
 				Mary: Maria
 				Medusa: Meduse
 				Melusine: Melusine
@@ -387,19 +388,19 @@ Mods: {
 		}
 		Ores: {
 			adamantite: Adamantit
-			chlorophyte: Chlorophyt
+			chlorophyte: Grünalge
 			cobalt: Kobalt
 			copper: Kupfer
 			crimtane: Purpur
 			demonite: Dämonit
 			gold: Gold
 			iron: Eisen
-			lead: führen
+			lead: Blei
 			mythril: Mythril
-			orichalcum: orichalkum
+			orichalcum: Orichalkum
 			palladium: Palladium
 			platinum: Platin
-			silver: Silber-
+			silver: Silber
 			tin: Zinn
 			titanium: Titan
 			tungsten: Wolfram
@@ -442,23 +443,23 @@ Mods: {
 				Legs: Beine
 			}
 			DamageClassNames: {
-				Generic: Generisch
+				Generic: Generischer
 				Magic: Magie
 				Melee: Nahkampf
-				Ranged: Reichweite
-				Rogue: Schurke
-				Summon: Beschwörung
-				Throwing: Werfen
-				Whip: Peitsche
+				Ranged: Fernkampf
+				Rogue: Rogue
+				Summon: Beschwörungs
+				Throwing: Wurf
+				Whip: Peitschen
 			}
 			EffectDisplayName: {
-				AllForOne: Alle für einen
+				AllForOne: Alle für Einen
 				AmmoCost1: Chance, keine Munition zu verbrauchen
 				AmmoCost2: Erhöhte Munitionskosten
 				ArmorPenetration: Rüstungsdurchdringung
 				AttackSpeed: Angriffsgeschwindigkeit
 				AutoReuse: Automatische Wiederverwendung
-				BonusCoins: Bonusmünzen
+				BonusCoins: Bonus Münzen
 				BuffDuration: "Verlängert die Dauer von Buffs um {0}"
 				BuffEffect0: "Gibt Ihnen passiv {0}"
 				BuffEffect1: "Fügt dir passiv {0} zu"
@@ -476,11 +477,11 @@ Mods: {
 				BuffEffect7: "Fügt Gegnern in der Nähe passiv {0} zu"
 				BuffEffect8: "Gewährt dir {0} bei Treffer"
 				BuffEffect9: "Fügt dir bei einem Treffer {0} zu"
-				CalmWaters: Stille Wasser
-				CatastrophicRelease: Katastrophale Veröffentlichung
+				CalmWaters: Ruhige Gewässer
+				CatastrophicRelease: Katastrophaler Abwurf
 				Channel: Kanal
 				ChaoticFishing: Chaotisches Fischen
-				ColdSteel: Kalter Stahl
+				ColdSteel: Kaltes Stahl
 				Crate: Kiste
 				CrateChance: Kistenchance
 				CriticalStrikeChance: Kritische Trefferchance
@@ -490,57 +491,57 @@ Mods: {
 				DamageAfterDefenses: Schaden (Wird nach der Verteidigung angewendet. Nicht im Waffen-Tooltip sichtbar)
 				DamageClassSwap: "Schadenstyp in {0} umwandeln"
 				DamageReduction: Schadensreduzierung
-				DangerSense: Gefahr Sinn
+				DangerSense: Gefahrensinn
 				Daybreak: Tagesanbruch
-				Defense: Verteidigung
-				EnemyMaxSpawns: Feindlicher Max spawnt
-				EnemySpawnRate: Gegnerische Spawnrate
+				Defense: Abwehr
+				EnemyMaxSpawns: Maximale Gegner spawns
+				EnemySpawnRate: Gegner Spawnrate
 				ExtraFishingLine: Zusätzliche Angelschnur
 				Fishing: Angeln
 				FishingEnemySpawnChance: Angeln Gegner-Spawn-Chance
-				FishingPower: Fischfang
-				FlatMPRegen: Flach MP Regen
+				FishingPower: Angelkraft
+				FlatMPRegen: Flache MP Regeneration
 				Frostburn: Frostbrand
 				GodSlayer: Gottestöter
-				HellsWrath: Höllen Zorn
+				HellsWrath: Höllenzorn
 				Hunter: Jäger
 				Ichor: Ichor
 				InfinitePenetration: Unendliche Durchdringung
 				Juiced: Entsaftet
 				JumpSpeed: Sprunggeschwindigkeit
-				JunglesFury: Dschungel-Wut
+				JunglesFury: Dschungelwut
 				LavaFishing: Lavafischen
 				LifeRegeneration: Lebensregeneration
 				LifeSteal: Lebensraub
 				Luck: Glück
-				MagicClassSwap: Zauberklassentausch
+				MagicClassSwap: Magier Klassentausch
 				ManaUsage1: Reduzierter Manaverbrauch
 				ManaUsage2: Erhöhter Manaverbrauch
 				MaxFallSpeed: Maximale Fallgeschwindigkeit
-				MaxLife: Maximales Leben
-				MaxMinions: Maximale Schergen
-				MaxMP: Max MP
+				MaxLife: Maximale Leben
+				MaxMinions: Maximale Günstlinge
+				MaxMP: Maximale MP
 				MeleeClassSwap: Nahkampf-Klassentausch
-				MiningSpeed: Mining-Geschwindigkeit
-				MinionAttackTarget: Vasallen-Angriffsziel
+				MiningSpeed: Abbaugeschwindigkeit
+				MinionAttackTarget: Günstling Angriffsziel
 				MobilityControl: Mobilitätskontrolle
 				Moonlight: Mondlicht
 				MovementAcceleration: Bewegungsbeschleunigung
 				MovementSlowdown: Bewegungsverlangsamung
 				MovementSpeed: Bewegungsgeschwindigkeit
 				MPBonusRegen: MP-Bonus-Regeneration
-				Multishot: Dauerfeuer
+				Multishot: Mehrfachschuss
 				NpcContactAngler: Npc Kontakt Angler
 				NPCHitCooldown: NPC-Treffer-Cooldown
-				ObsidianSkin: Obsidian-Haut
-				OneForAll: Einer für alle
-				OnFire: In Brand geraten
+				ObsidianSkin: Obsidianhaut
+				OneForAll: Einer für Alle
+				OnFire: In Flammen
 				OnHitSpawnProjectile: Spawn-Projektil bei Treffer
 				Peace: Frieden
 				PennyPinching: Pfennigkneifen
 				ProjectileVelocity: Projektilgeschwindigkeit
 				QuestFishChance: Quest-Fisch-Chance
-				RangedClassSwap: Fernkampf-Klassentausch
+				RangedClassSwap: Fernkämpfer-Klassentausch
 				ReducedManaUsage: Reduzierter Manaverbrauch
 				RogueClassSwap: Rogue-Klassentausch
 				Size: Größe
@@ -548,19 +549,19 @@ Mods: {
 				Sonar: Sonar
 				Spelunker: Höhlenforscher
 				VanillaDash1: Ninja Tabi Dash
-				VanillaDash2: Auge von Cthulhu Shield Dash
+				VanillaDash2: Auge von Cthulhu Schild Dash
 				VanillaDash3: Solar Dash
-				VanillaDash5: Crystal Ninja Dash
+				VanillaDash5: Kristall Ninja Dash
 				Venom: Gift
 				War: Krieg
 				WhipClassSwap: Peitschenklassentausch
 				WhipRange: Peitschenreichweite
-				WingTime: Flügelzeit
+				WingTime: Flugzeit
 				WorldAblaze: Welt in Flammen
-				YoyoStringLength: Länge der Yoyo-Schnur
+				YoyoStringLength: Yoyo-Schnur Länge
 			}
 			EnchantmentCustomTooltips: {
-				CalamityMod: (Kalamity-Mod-Verzauberung)
+				CalamityMod: (Calamity-Mod-Verzauberung)
 				WorldAblaze: 
 					'''
 					(Amaterasu-Debuff und die folgenden Anmerkungen dazu gelten nur für Verzauberungsstufe 4.)
@@ -576,7 +577,7 @@ Mods: {
 				AttackSpeed: "{0} (Beeinflusst die Feuerrate von Vasallen, wenn sie Projektile abfeuern. Beeinflusst, wie schnell Fische die Angelschnur beißen.)"
 				BonusCoins: 
 					'''
-					{0} (Wenn du einen Feind triffst, erhöht sich die Anzahl der Münzen, die er beim Tod fallen lässt
+					{0} (Wenn du einen Gegner triffst, erhöht sich die Anzahl der Münzen, die er beim Tod fallen lässt
 					basierend auf verursachtem Schaden, maximaler Gesundheit des Gegners, Grundwert des Gegners und Glück.)
 					'''
 				BuffDuration: 
@@ -592,7 +593,7 @@ Mods: {
 					(Verhindert den Verbrauch von Boss-Beschwörungsgegenständen, wenn der Multiplikator der Spawnrate von Verzauberungen > 1,6 ist)
 					(Gespawnte Feinde sind immun gegen Lava/Fallen)
 					'''
-				FishingEnemySpawnChance: "{0} (Tagsüber um das 5-fache reduziert. Betroffen von Chum Caster. Kann auch Duke Fishron spawnen.)"
+				FishingEnemySpawnChance: "{0} (Tagsüber um das 5-fache reduziert. Betroffen von Chum Caster. Kann auch Herzog Fischron beschwören.)"
 				GodSlayer: 
 					'''
 					{0}
@@ -644,27 +645,27 @@ Mods: {
 				Accessories: Zubehör
 				Armor: Rüstung
 				FishingPoles: Angelruten
-				None: Keiner
-				Tools: Werkzeug
+				None: Kein
+				Tools: Werkzeuge
 				Weapons: Waffen
 			}
 		}
 		TownNPCMood: {
 			Witch: {
-				Content: Das Leben hier ist erträglich. Kein Streit, kein Drama, es ist nicht so schrecklich.
-				DislikeBiome: Es ist unglaublich, wie hier so zahm ist, kein Übel, keine Grusel, es ist so lahm!
-				DislikeCrowded: Wie soll ich diesem ganzen Lärm zustimmen!
-				DislikeNPC: "Diese... Person von {NPCName} ist so klischeehaft! 'Rette die Welt vor dem Bösen' Das Böse ist tief verwurzelt und hier, um zu bleiben!"
-				FarFromHome: Ich musste mich weit wagen, um neue Reagenzien zu finden. Während mein Zuhause angenehm ist, kann ich mit diesen letzten Zutaten ein neues Gebräu brauen.
-				HateBiome: Huch! Dieser Ort ist so hell, dass ich vor allem ärgere!
-				HateCrouded: Ich kann mit diesem Verkehr hier nicht umgehen! Hol mich raus oder wirf sie raus, mach schnell!
-				HateNPC: "{NPCName} ist eine tyrannische Dirne, die überall Haare hinterlässt, ich werde sie im Krieg bezahlen lassen!"
-				LikeBiome: Dieser Ort ist voller Viecher und Dreck, Zeit für schnelles Geld!
-				LikeNPC: „Während {NPCName} sich nicht außerhalb des Bewährten wagt, zählt er mit seinem arkanen Wissen zu dem eines Guru!“
-				LoveBiome: Dieser Ort erinnert mich an meine alte Höhle. Sehr grimmig, sehr magisch, was für ein Flair!
-				LoveNPC: "Ein anderer Kesselbenutzer! {NPCName} hat so viele seltsame Gimmicks, ein wahrer Verführer!"
-				LoveSpace: Jetzt wo alle weg sind, können meine Experimente endlich weitergehen!
-				NoHome: Ich kann nicht alle meine Waren halten, diese sind instabil, bitte passen Sie auf!
+				Content: "Das Leben hier ist erträglich. Kein Streit, kein Drama, es ist nicht so schrecklich."
+				DislikeBiome: "Es ist unfassbar, wie zahm es hier doch ist. Kein Übel, kein Grusel, einfach nur langweilig!"
+				DislikeCrowded: "Ich kann mich nicht konzentrieren bei dieser Aufruhr!"
+				DislikeNPC: "Diese... {NPCName} ist so klischeehaft! 'Rette die Welt vor dem Bösen', das Böse ist ganz tief verwurzelt und so wird es immer bleiben!"
+				FarFromHome: "Ich musste mich weit weg von meinem Hause begeben, um diese Zutaten zu finden. Zwar ist mir mein Zuhause lieber, aber ich brauche neue Zutaten für neue Rezepte.
+				HateBiome: "Dieser Ort ist mir viel zu grell, davon krieg ich Kopfschmerzen!
+				HateCrowded: "Ich verstehe nur Bahnhof bei diesem ganzen Lärm!
+				HateNPC: "{NPCName} ist eine tyrannische Dirne, die überall Haare hinterlässt, das werde ich ihr noch heimzahlen!"
+				LikeBiome: Dieser Ort ist voller Viecher und Dreck, Zeit für ein wenig extra Geld!
+				LikeNPC: "Obwohl {NPCName} sich nicht ins unbekannte stürzt, besitzt er trotzdem arkanes Wissen!"
+				LoveBiome: "Dieser Ort erinnert mich an meine alte Höhle. Sehr grimmig, sehr magisch, was für ein Knaller!"
+				LoveNPC: "Ein anderer Alchemist! {NPCName} hat so viele seltsame Gimmicks, ein wahrer Verführer!"
+				LoveSpace: "Jetzt wo alle weg sind, können meine Experimente endlich weitergehen!"
+				NoHome: "Ohne eine Unterkunft kann ich meine Waren nicht sicher aufbewahren. Sie sind sehr reaktionsfreudig, also bitte pass auf!"
 			}
 		}
 	}
